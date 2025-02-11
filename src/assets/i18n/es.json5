@@ -186,8 +186,8 @@
   // "admin.registries.bitstream-formats.table.supportLevel.head": "Support Level",
   "admin.registries.bitstream-formats.table.supportLevel.head": "Nivel de soporte",
   
-  // "admin.registries.bitstream-formats.title": "DSpace Angular :: Bitstream Format Registry",
-  "admin.registries.bitstream-formats.title": "DSpace Angular :: Registro de formato de archivo",
+  // "admin.registries.bitstream-formats.title": "Dspace IIAP :: Bitstream Format Registry",
+  "admin.registries.bitstream-formats.title": "Dspace IIAP :: Registro de formato de archivo",
   
   
   
@@ -228,8 +228,8 @@
   // "admin.registries.metadata.schemas.table.namespace": "Namespace",
   "admin.registries.metadata.schemas.table.namespace": "Namespace",
   
-  // "admin.registries.metadata.title": "DSpace Angular :: Metadata Registry",
-  "admin.registries.metadata.title": "DSpace Angular :: Registro de metadatos",
+  // "admin.registries.metadata.title": "Dspace IIAP :: Metadata Registry",
+  "admin.registries.metadata.title": "Dspace IIAP :: Registro de metadatos",
   
   
   
@@ -306,8 +306,8 @@
   // "admin.registries.schema.return": "Return",
   "admin.registries.schema.return": "Regreso",
   
-  // "admin.registries.schema.title": "DSpace Angular :: Metadata Schema Registry",
-  "admin.registries.schema.title": "DSpace Angular :: Registro de Esquema de Metadatos",
+  // "admin.registries.schema.title": "Dspace IIAP :: Metadata Schema Registry",
+  "admin.registries.schema.title": "Dspace IIAP :: Registro de Esquema de Metadatos",
   
   
   
@@ -327,9 +327,9 @@
   // TODO New key - Add a translation
   "admin.access-control.epeople.actions.stop-impersonating": "Stop impersonating EPerson",
   
-  // "admin.access-control.epeople.title": "DSpace Angular :: EPeople",
+  // "admin.access-control.epeople.title": "Dspace IIAP :: EPeople",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.title": "DSpace Angular :: EPeople",
+  "admin.access-control.epeople.title": "Dspace IIAP :: EPeople",
   
   // "admin.access-control.epeople.head": "EPeople",
   // TODO New key - Add a translation
@@ -481,17 +481,17 @@
   
   
   
-  // "admin.access-control.groups.title": "DSpace Angular :: Groups",
+  // "admin.access-control.groups.title": "Dspace IIAP :: Groups",
   // TODO New key - Add a translation
-  "admin.access-control.groups.title": "DSpace Angular :: Groups",
+  "admin.access-control.groups.title": "Dspace IIAP :: Groups",
   
-  // "admin.access-control.groups.title.singleGroup": "DSpace Angular :: Edit Group",
+  // "admin.access-control.groups.title.singleGroup": "Dspace IIAP :: Edit Group",
   // TODO New key - Add a translation
-  "admin.access-control.groups.title.singleGroup": "DSpace Angular :: Edit Group",
+  "admin.access-control.groups.title.singleGroup": "Dspace IIAP :: Edit Group",
   
-  // "admin.access-control.groups.title.addGroup": "DSpace Angular :: New Group",
+  // "admin.access-control.groups.title.addGroup": "Dspace IIAP :: New Group",
   // TODO New key - Add a translation
-  "admin.access-control.groups.title.addGroup": "DSpace Angular :: New Group",
+  "admin.access-control.groups.title.addGroup": "Dspace IIAP :: New Group",
   
   // "admin.access-control.groups.head": "Groups",
   // TODO New key - Add a translation
@@ -1470,11 +1470,11 @@
   
   // "communityList.tabTitle": "DSpace - Community List",
   // TODO New key - Add a translation
-  "communityList.tabTitle": "DSpace - Community List",
+  "communityList.tabTitle": "Lista de Comunidades",
   
   // "communityList.title": "List of Communities",
   // TODO New key - Add a translation
-  "communityList.title": "List of Communities",
+  "communityList.title": "Lista de Comunidades",
   
   // "communityList.showMore": "Show More",
   // TODO New key - Add a translation
@@ -2295,8 +2295,8 @@
   // TODO New key - Add a translation
   "home.breadcrumbs": "Home",
   
-  // "home.title": "DSpace Angular :: Home",
-  "home.title": "DSpace Angular :: Inicio",
+  // "home.title": "Dspace IIAP :: Home",
+  "home.title": "Dspace IIAP :: Inicio",
   
   // "home.top-level-communities.head": "Communities in DSpace",
   "home.top-level-communities.head": "Comunidades en DSpace",
@@ -3040,9 +3040,9 @@
   // TODO New key - Add a translation
   "item.search.results.head": "Item Search Results",
   
-  // "item.search.title": "DSpace Angular :: Item Search",
+  // "item.search.title": "Dspace IIAP :: Item Search",
   // TODO New key - Add a translation
-  "item.search.title": "DSpace Angular :: Item Search",
+  "item.search.title": "Dspace IIAP :: Item Search",
   
   
   
@@ -3271,8 +3271,8 @@
   // "journal.search.results.head": "Journal Search Results",
   "journal.search.results.head": "Resultados de búsqueda de revistas",
   
-  // "journal.search.title": "DSpace Angular :: Journal Search",
-  "journal.search.title": "DSpace Angular :: Búsqueda de revistas",
+  // "journal.search.title": "Dspace IIAP :: Journal Search",
+  "journal.search.title": "Dspace IIAP :: Búsqueda de revistas",
   
   
   
@@ -3924,8 +3924,8 @@
   // "person.search.results.head": "Person Search Results",
   "person.search.results.head": "Resultados de búsqueda de personas",
   
-  // "person.search.title": "DSpace Angular :: Person Search",
-  "person.search.title": "DSpace Angular :: Búsqueda de persona",
+  // "person.search.title": "Dspace IIAP :: Person Search",
+  "person.search.title": "Dspace IIAP :: Búsqueda de persona",
   
   
   
@@ -4285,8 +4285,8 @@
   // "publication.search.results.head": "Publication Search Results",
   "publication.search.results.head": "Resultados de la búsqueda de publicaciones",
   
-  // "publication.search.title": "DSpace Angular :: Publication Search",
-  "publication.search.title": "DSpace Angular :: Búsqueda de publicación",
+  // "publication.search.title": "Dspace IIAP :: Publication Search",
+  "publication.search.title": "Dspace IIAP :: Búsqueda de publicación",
   
   
   // "register-email.title": "New user registration",
@@ -4695,9 +4695,9 @@
   // TODO Source message changed - Revise the translation
   "search.switch-configuration.title": "Show",
   
-  // "search.title": "DSpace Angular :: Search",
+  // "search.title": "Dspace IIAP :: Search",
   // TODO Source message changed - Revise the translation
-  "search.title": "DSpace Angular :: Search",
+  "search.title": "Dspace IIAP :: Search",
   
   // "search.breadcrumbs": "Search",
   // TODO New key - Add a translation
@@ -5565,31 +5565,31 @@
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.sherpaJournal": "Search Results",
   // TODO New key - Add a translation
-  "submission.sections.describe.relationship-lookup.selection-tab.title.sherpaJournal": "Search Results",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.sherpaJournal": "Resultados de busqueda",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.sherpaPublisher": "Search Results",
   // TODO New key - Add a translation
-  "submission.sections.describe.relationship-lookup.selection-tab.title.sherpaPublisher": "Search Results",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.sherpaPublisher": "Resultados de busqueda",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.orcid": "Search Results",
   // TODO New key - Add a translation
-  "submission.sections.describe.relationship-lookup.selection-tab.title.orcid": "Search Results",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.orcid": "Resultados de busqueda",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.orcidv2": "Search Results",
   // TODO New key - Add a translation
-  "submission.sections.describe.relationship-lookup.selection-tab.title.orcidv2": "Search Results",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.orcidv2": "Resultados de busqueda",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.lcname": "Search Results",
   // TODO New key - Add a translation
-  "submission.sections.describe.relationship-lookup.selection-tab.title.lcname": "Search Results",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.lcname": "Resultados de busqueda",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.pubmed": "Search Results",
   // TODO New key - Add a translation
-  "submission.sections.describe.relationship-lookup.selection-tab.title.pubmed": "Search Results",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.pubmed": "Resultados de busqueda",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.arxiv": "Search Results",
   // TODO New key - Add a translation
-  "submission.sections.describe.relationship-lookup.selection-tab.title.arxiv": "Search Results",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.arxiv": "Resultados de busqueda",
   
   // "submission.sections.describe.relationship-lookup.name-variant.notification.content": "Would you like to save \"{{ value }}\" as a name variant for this person so you and others can reuse it for future submissions? If you don\'t you can still use it for this submission.",
   // TODO New key - Add a translation
