@@ -2749,7 +2749,8 @@
   "repository.image.logo": "Repository logo",
 
   "repository.title.prefix": "DSpace IIAP :: ",
-
+  
+  "repository.title.prefixDSpace": "DSpace IIAP :: ",
 
   "resource-policies.add.button": "Add",
 

@@ -2100,15 +2100,15 @@
   
   // "forgot-email.form.header": "Forgot Password",
   // TODO New key - Add a translation
-  "forgot-email.form.header": "Forgot Password",
+  "forgot-email.form.header": "Olvidó su contraseña",
   
   // "forgot-email.form.info": "Enter Register an account to subscribe to collections for email updates, and submit new items to DSpace.",
   // TODO New key - Add a translation
-  "forgot-email.form.info": "Enter Register an account to subscribe to collections for email updates, and submit new items to DSpace.",
+  "forgot-email.form.info": "Ingresa o regístrate para suscribirte a colecciones y recibir actualizaciones por correo electrónico, así como para enviar nuevos elementos a DSpace.",
   
   // "forgot-email.form.email": "Email Address *",
   // TODO New key - Add a translation
-  "forgot-email.form.email": "Email Address *",
+  "forgot-email.form.email": "Dirección de correo *",
   
   // "forgot-email.form.email.error.required": "Please fill in an email address",
   // TODO New key - Add a translation
@@ -2293,11 +2293,12 @@
   
   // "home.breadcrumbs": "Home",
   // TODO New key - Add a translation
-  "home.breadcrumbs": "Home",
+  "home.breadcrumbs": "Inicio",
   
-  // "home.title": "Dspace IIAP :: Home",
-  "home.title": "Dspace IIAP :: Inicio",
-  
+  // "home.title": "DSpace IIAP :: Home",
+  "home.title": "DSpace IIAP :: Inicio",
+
+
   // "home.top-level-communities.head": "Communities in DSpace",
   "home.top-level-communities.head": "Comunidades en DSpace",
   
