@@ -170,7 +170,8 @@
   // "admin.registries.bitstream-formats.table.name": "Name",
   "admin.registries.bitstream-formats.table.name": "Naam",
   
-  // "admin.registries.bitstream-formats.table.return": "Return",
+  // "admin.registries.bitstream-formats.table.return": "Back",
+  // TODO Source message changed - Revise the translation
   "admin.registries.bitstream-formats.table.return": "Terug",
   
   // "admin.registries.bitstream-formats.table.supportLevel.KNOWN": "Known",
@@ -185,7 +186,8 @@
   // "admin.registries.bitstream-formats.table.supportLevel.head": "Support Level",
   "admin.registries.bitstream-formats.table.supportLevel.head": "Ondersteuningsniveau",
   
-  // "admin.registries.bitstream-formats.title": "DSpace Angular :: Bitstream Format Registry",
+  // "admin.registries.bitstream-formats.title": "Bitstream Format Registry",
+  // TODO Source message changed - Revise the translation
   "admin.registries.bitstream-formats.title": "DSpace Angular :: Bitstream Formaat Register",
   
   
@@ -227,7 +229,8 @@
   // "admin.registries.metadata.schemas.table.namespace": "Namespace",
   "admin.registries.metadata.schemas.table.namespace": "Namespace",
   
-  // "admin.registries.metadata.title": "DSpace Angular :: Metadata Registry",
+  // "admin.registries.metadata.title": "Metadata Registry",
+  // TODO Source message changed - Revise the translation
   "admin.registries.metadata.title": "DSpace Angular :: Metadataregister",
   
   
@@ -302,10 +305,12 @@
   // "admin.registries.schema.notification.success": "Success",
   "admin.registries.schema.notification.success": "Succes",
   
-  // "admin.registries.schema.return": "Return",
+  // "admin.registries.schema.return": "Back",
+  // TODO Source message changed - Revise the translation
   "admin.registries.schema.return": "Terug",
   
-  // "admin.registries.schema.title": "DSpace Angular :: Metadata Schema Registry",
+  // "admin.registries.schema.title": "Metadata Schema Registry",
+  // TODO Source message changed - Revise the translation
   "admin.registries.schema.title": "DSpace Angular :: Metadata Schema Register",
   
   
@@ -326,9 +331,13 @@
   // TODO New key - Add a translation
   "admin.access-control.epeople.actions.stop-impersonating": "Stop impersonating EPerson",
   
-  // "admin.access-control.epeople.title": "DSpace Angular :: EPeople",
+  // "admin.access-control.epeople.breadcrumbs": "EPeople",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.title": "DSpace Angular :: EPeople",
+  "admin.access-control.epeople.breadcrumbs": "EPeople",
+  
+  // "admin.access-control.epeople.title": "EPeople",
+  // TODO New key - Add a translation
+  "admin.access-control.epeople.title": "EPeople",
   
   // "admin.access-control.epeople.head": "EPeople",
   // TODO New key - Add a translation
@@ -354,6 +363,10 @@
   // TODO New key - Add a translation
   "admin.access-control.epeople.search.button": "Search",
   
+  // "admin.access-control.epeople.search.placeholder": "Search people...",
+  // TODO New key - Add a translation
+  "admin.access-control.epeople.search.placeholder": "Search people...",
+  
   // "admin.access-control.epeople.button.add": "Add EPerson",
   // TODO New key - Add a translation
   "admin.access-control.epeople.button.add": "Add EPerson",
@@ -377,6 +390,10 @@
   // "admin.access-control.epeople.table.edit.buttons.edit": "Edit \"{{name}}\"",
   // TODO New key - Add a translation
   "admin.access-control.epeople.table.edit.buttons.edit": "Edit \"{{name}}\"",
+  
+  // "admin.access-control.epeople.table.edit.buttons.edit-disabled": "You are not authorized to edit this group",
+  // TODO New key - Add a translation
+  "admin.access-control.epeople.table.edit.buttons.edit-disabled": "You are not authorized to edit this group",
   
   // "admin.access-control.epeople.table.edit.buttons.remove": "Delete \"{{name}}\"",
   // TODO New key - Add a translation
@@ -417,6 +434,10 @@
   // "admin.access-control.epeople.form.requireCertificate": "Requires certificate",
   // TODO New key - Add a translation
   "admin.access-control.epeople.form.requireCertificate": "Requires certificate",
+  
+  // "admin.access-control.epeople.form.return": "Back",
+  // TODO New key - Add a translation
+  "admin.access-control.epeople.form.return": "Back",
   
   // "admin.access-control.epeople.form.notification.created.success": "Successfully created EPerson \"{{name}}\"",
   // TODO New key - Add a translation
@@ -480,17 +501,29 @@
   
   
   
-  // "admin.access-control.groups.title": "DSpace Angular :: Groups",
+  // "admin.access-control.groups.title": "Groups",
   // TODO New key - Add a translation
-  "admin.access-control.groups.title": "DSpace Angular :: Groups",
+  "admin.access-control.groups.title": "Groups",
   
-  // "admin.access-control.groups.title.singleGroup": "DSpace Angular :: Edit Group",
+  // "admin.access-control.groups.breadcrumbs": "Groups",
   // TODO New key - Add a translation
-  "admin.access-control.groups.title.singleGroup": "DSpace Angular :: Edit Group",
+  "admin.access-control.groups.breadcrumbs": "Groups",
   
-  // "admin.access-control.groups.title.addGroup": "DSpace Angular :: New Group",
+  // "admin.access-control.groups.singleGroup.breadcrumbs": "Edit Group",
   // TODO New key - Add a translation
-  "admin.access-control.groups.title.addGroup": "DSpace Angular :: New Group",
+  "admin.access-control.groups.singleGroup.breadcrumbs": "Edit Group",
+  
+  // "admin.access-control.groups.title.singleGroup": "Edit Group",
+  // TODO New key - Add a translation
+  "admin.access-control.groups.title.singleGroup": "Edit Group",
+  
+  // "admin.access-control.groups.title.addGroup": "New Group",
+  // TODO New key - Add a translation
+  "admin.access-control.groups.title.addGroup": "New Group",
+  
+  // "admin.access-control.groups.addGroup.breadcrumbs": "New Group",
+  // TODO New key - Add a translation
+  "admin.access-control.groups.addGroup.breadcrumbs": "New Group",
   
   // "admin.access-control.groups.head": "Groups",
   // TODO New key - Add a translation
@@ -511,6 +544,10 @@
   // "admin.access-control.groups.search.button": "Search",
   // TODO New key - Add a translation
   "admin.access-control.groups.search.button": "Search",
+  
+  // "admin.access-control.groups.search.placeholder": "Search groups...",
+  // TODO New key - Add a translation
+  "admin.access-control.groups.search.placeholder": "Search groups...",
   
   // "admin.access-control.groups.table.id": "ID",
   // TODO New key - Add a translation
@@ -790,9 +827,9 @@
   // TODO New key - Add a translation
   "admin.access-control.groups.form.subgroups-list.no-subgroups-yet": "No subgroups in group yet.",
   
-  // "admin.access-control.groups.form.return": "Return to groups",
+  // "admin.access-control.groups.form.return": "Back",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.return": "Return to groups",
+  "admin.access-control.groups.form.return": "Back",
   
   
   
@@ -893,9 +930,9 @@
   // TODO New key - Add a translation
   "admin.metadata-import.page.dropMsgReplace": "Drop to replace the metadata CSV to import",
   
-  // "admin.metadata-import.page.button.return": "Return",
+  // "admin.metadata-import.page.button.return": "Back",
   // TODO New key - Add a translation
-  "admin.metadata-import.page.button.return": "Return",
+  "admin.metadata-import.page.button.return": "Back",
   
   // "admin.metadata-import.page.button.proceed": "Proceed",
   // TODO New key - Add a translation
@@ -914,7 +951,29 @@
   // "auth.messages.expired": "Your session has expired. Please log in again.",
   "auth.messages.expired": "Uw sessie is vervallen. Gelieve opnieuw aan te melden.",
   
+  // "auth.messages.token-refresh-failed": "Refreshing your session token failed. Please log in again.",
+  // TODO New key - Add a translation
+  "auth.messages.token-refresh-failed": "Refreshing your session token failed. Please log in again.",
   
+  
+  
+  // "bitstream.download.page": "Now downloading {{bitstream}}..." ,
+  // TODO New key - Add a translation
+  "bitstream.download.page": "Now downloading {{bitstream}}..." ,
+  
+  
+  
+  // "bitstream.edit.authorizations.link": "Edit bitstream's Policies",
+  // TODO New key - Add a translation
+  "bitstream.edit.authorizations.link": "Edit bitstream's Policies",
+  
+  // "bitstream.edit.authorizations.title": "Edit bitstream's Policies",
+  // TODO New key - Add a translation
+  "bitstream.edit.authorizations.title": "Edit bitstream's Policies",
+  
+  // "bitstream.edit.return": "Back",
+  // TODO New key - Add a translation
+  "bitstream.edit.return": "Back",
   
   // "bitstream.edit.bitstream": "Bitstream: ",
   // TODO New key - Add a translation
@@ -1032,11 +1091,23 @@
   // TODO New key - Add a translation
   "browse.metadata.title.breadcrumbs": "Browse by Title",
   
+  // "browse.next.button": "Next",
+  // TODO New key - Add a translation
+  "browse.next.button": "Next",
+  
+  // "browse.previous.button": "Previous",
+  // TODO New key - Add a translation
+  "browse.previous.button": "Previous",
+  
   // "browse.startsWith.choose_start": "(Choose start)",
   "browse.startsWith.choose_start": "(Kies begin)",
   
   // "browse.startsWith.choose_year": "(Choose year)",
   "browse.startsWith.choose_year": "(Kies jaar)",
+  
+  // "browse.startsWith.choose_year.label": "Choose the issue year",
+  // TODO New key - Add a translation
+  "browse.startsWith.choose_year.label": "Choose the issue year",
   
   // "browse.startsWith.jump": "Jump to a point in the index:",
   "browse.startsWith.jump": "Ga naar een plaats in de index:",
@@ -1071,6 +1142,10 @@
   // "browse.startsWith.months.none": "(Choose month)",
   "browse.startsWith.months.none": "(Kies maand)",
   
+  // "browse.startsWith.months.none.label": "Choose the issue month",
+  // TODO New key - Add a translation
+  "browse.startsWith.months.none.label": "Choose the issue month",
+  
   // "browse.startsWith.months.november": "November",
   "browse.startsWith.months.november": "November",
   
@@ -1080,13 +1155,20 @@
   // "browse.startsWith.months.september": "September",
   "browse.startsWith.months.september": "September",
   
-  // "browse.startsWith.submit": "Go",
+  // "browse.startsWith.submit": "Browse",
+  // TODO Source message changed - Revise the translation
   "browse.startsWith.submit": "Ga",
   
-  // "browse.startsWith.type_date": "Or type in a date (year-month):",
+  // "browse.startsWith.type_date": "Or type in a date (year-month) and click 'Browse'",
+  // TODO Source message changed - Revise the translation
   "browse.startsWith.type_date": "Of type een datum (jaar-maand):",
   
-  // "browse.startsWith.type_text": "Or enter first few letters:",
+  // "browse.startsWith.type_date.label": "Or type in a date (year-month) and click on the Browse button",
+  // TODO New key - Add a translation
+  "browse.startsWith.type_date.label": "Or type in a date (year-month) and click on the Browse button",
+  
+  // "browse.startsWith.type_text": "Type the first few letters and click on the Browse button",
+  // TODO Source message changed - Revise the translation
   "browse.startsWith.type_text": "Or vul de eerste paar letters in:",
   
   // "browse.title": "Browsing {{ collection }} by {{ field }} {{ value }}",
@@ -1117,6 +1199,10 @@
   
   // "collection.delete.confirm": "Confirm",
   "collection.delete.confirm": "Bevestig",
+  
+  // "collection.delete.processing": "Deleting",
+  // TODO New key - Add a translation
+  "collection.delete.processing": "Deleting",
   
   // "collection.delete.head": "Delete Collection",
   "collection.delete.head": "Verwijder Collectie",
@@ -1197,6 +1283,10 @@
   // "collection.edit.item-mapper.remove": "Remove selected item mappings",
   "collection.edit.item-mapper.remove": "Verwijder de geselecteerde item mappings",
   
+  // "collection.edit.item-mapper.search-form.placeholder": "Search items...",
+  // TODO New key - Add a translation
+  "collection.edit.item-mapper.search-form.placeholder": "Search items...",
+  
   // "collection.edit.item-mapper.tabs.browse": "Browse mapped items",
   "collection.edit.item-mapper.tabs.browse": "Blader door gemapte items",
   
@@ -1204,6 +1294,14 @@
   "collection.edit.item-mapper.tabs.map": "Map nieuwe items",
   
   
+  
+  // "collection.edit.logo.delete.title": "Delete logo",
+  // TODO New key - Add a translation
+  "collection.edit.logo.delete.title": "Delete logo",
+  
+  // "collection.edit.logo.delete-undo.title": "Undo delete",
+  // TODO New key - Add a translation
+  "collection.edit.logo.delete-undo.title": "Undo delete",
   
   // "collection.edit.logo.label": "Collection logo",
   // TODO New key - Add a translation
@@ -1239,9 +1337,9 @@
   // TODO New key - Add a translation
   "collection.edit.notifications.success": "Successfully edited the Collection",
   
-  // "collection.edit.return": "Return",
+  // "collection.edit.return": "Back",
   // TODO New key - Add a translation
-  "collection.edit.return": "Return",
+  "collection.edit.return": "Back",
   
   
   
@@ -1371,6 +1469,10 @@
   // TODO New key - Add a translation
   "collection.edit.template.edit-button": "Edit",
   
+  // "collection.edit.template.error": "An error occurred retrieving the template item",
+  // TODO New key - Add a translation
+  "collection.edit.template.error": "An error occurred retrieving the template item",
+  
   // "collection.edit.template.head": "Edit Template Item for Collection \"{{ collection }}\"",
   // TODO New key - Add a translation
   "collection.edit.template.head": "Edit Template Item for Collection \"{{ collection }}\"",
@@ -1378,6 +1480,10 @@
   // "collection.edit.template.label": "Template item",
   // TODO New key - Add a translation
   "collection.edit.template.label": "Template item",
+  
+  // "collection.edit.template.loading": "Loading template item...",
+  // TODO New key - Add a translation
+  "collection.edit.template.loading": "Loading template item...",
   
   // "collection.edit.template.notifications.delete.error": "Failed to delete the item template",
   // TODO New key - Add a translation
@@ -1467,9 +1573,13 @@
   
   
   
-  // "communityList.tabTitle": "DSpace - Community List",
+  // "communityList.breadcrumbs": "Community List",
   // TODO New key - Add a translation
-  "communityList.tabTitle": "DSpace - Community List",
+  "communityList.breadcrumbs": "Community List",
+  
+  // "communityList.tabTitle": "Community List",
+  // TODO New key - Add a translation
+  "communityList.tabTitle": "Community List",
   
   // "communityList.title": "List of Communities",
   // TODO New key - Add a translation
@@ -1501,6 +1611,10 @@
   // "community.delete.confirm": "Confirm",
   "community.delete.confirm": "Bevestig",
   
+  // "community.delete.processing": "Deleting...",
+  // TODO New key - Add a translation
+  "community.delete.processing": "Deleting...",
+  
   // "community.delete.head": "Delete Community",
   "community.delete.head": "Verwijder community",
   
@@ -1523,6 +1637,14 @@
   // TODO New key - Add a translation
   "community.edit.breadcrumbs": "Edit Community",
   
+  
+  // "community.edit.logo.delete.title": "Delete logo",
+  // TODO New key - Add a translation
+  "community.edit.logo.delete.title": "Delete logo",
+  
+  // "community.edit.logo.delete-undo.title": "Undo delete",
+  // TODO New key - Add a translation
+  "community.edit.logo.delete-undo.title": "Undo delete",
   
   // "community.edit.logo.label": "Community logo",
   // TODO New key - Add a translation
@@ -1566,9 +1688,9 @@
   // TODO New key - Add a translation
   "community.edit.notifications.error": "An error occured while editing the Community",
   
-  // "community.edit.return": "Return",
+  // "community.edit.return": "Back",
   // TODO New key - Add a translation
-  "community.edit.return": "Return",
+  "community.edit.return": "Back",
   
   
   
@@ -1926,6 +2048,12 @@
   
   
   
+  // "dso.name.untitled": "Untitled",
+  // TODO New key - Add a translation
+  "dso.name.untitled": "Untitled",
+  
+  
+  
   // "dso-selector.create.collection.head": "New collection",
   "dso-selector.create.collection.head": "Nieuwe collectie",
   
@@ -1961,6 +2089,10 @@
   
   // "dso-selector.edit.item.head": "Edit item",
   "dso-selector.edit.item.head": "Bewerk item",
+  
+  // "dso-selector.error.title": "An error occurred searching for a {{ type }}",
+  // TODO New key - Add a translation
+  "dso-selector.error.title": "An error occurred searching for a {{ type }}",
   
   // "dso-selector.export-metadata.dspaceobject.head": "Export metadata from",
   // TODO New key - Add a translation
@@ -2121,9 +2253,9 @@
   // TODO New key - Add a translation
   "forgot-email.form.email.hint": "This address will be verified and used as your login name.",
   
-  // "forgot-email.form.submit": "Submit",
+  // "forgot-email.form.submit": "Save",
   // TODO New key - Add a translation
-  "forgot-email.form.submit": "Submit",
+  "forgot-email.form.submit": "Save",
   
   // "forgot-email.form.success.head": "Verification email sent",
   // TODO New key - Add a translation
@@ -2205,9 +2337,9 @@
   
   
   
-  // "form.add": "Add",
+  // "form.add": "Add more",
   // TODO New key - Add a translation
-  "form.add": "Add",
+  "form.add": "Add more",
   
   // "form.add-help": "Click here to add the current entry and to add another one",
   // TODO New key - Add a translation
@@ -2221,6 +2353,14 @@
   
   // "form.clear-help": "Click here to remove the selected value",
   "form.clear-help": "Klik hier om de geselecteerde waarde the verwijderen",
+  
+  // "form.discard": "Discard",
+  // TODO New key - Add a translation
+  "form.discard": "Discard",
+  
+  // "form.drag": "Drag",
+  // TODO New key - Add a translation
+  "form.drag": "Drag",
   
   // "form.edit": "Edit",
   "form.edit": "Bewerk",
@@ -2282,9 +2422,13 @@
   // TODO New key - Add a translation
   "form.search-help": "Click here to look for an existing correspondence",
   
-  // "form.submit": "Submit",
+  // "form.submit": "Save",
+  // TODO Source message changed - Revise the translation
   "form.submit": "Verstuur",
   
+  // "form.repeatable.sort.tip": "Drop the item in the new position",
+  // TODO New key - Add a translation
+  "form.repeatable.sort.tip": "Drop the item in the new position",
   
   
   // "home.description": "",
@@ -2294,7 +2438,12 @@
   // TODO New key - Add a translation
   "home.breadcrumbs": "Home",
   
-  // "home.title": "DSpace Angular :: Home",
+  // "home.search-form.placeholder": "Search the repository ...",
+  // TODO New key - Add a translation
+  "home.search-form.placeholder": "Search the repository ...",
+  
+  // "home.title": "Home",
+  // TODO Source message changed - Revise the translation
   "home.title": "DSpace Angular :: Home",
   
   // "home.top-level-communities.head": "Communities in DSpace",
@@ -2574,6 +2723,10 @@
   // TODO New key - Add a translation
   "item.edit.breadcrumbs": "Edit Item",
   
+  // "item.edit.tabs.disabled.tooltip": "You're not authorized to access this tab",
+  // TODO New key - Add a translation
+  "item.edit.tabs.disabled.tooltip": "You're not authorized to access this tab",
+  
   
   // "item.edit.tabs.mapper.head": "Collection Mapper",
   // TODO New key - Add a translation
@@ -2627,6 +2780,10 @@
   
   // "item.edit.item-mapper.notifications.remove.success.head": "Removal of mapping completed",
   "item.edit.item-mapper.notifications.remove.success.head": "Verwijderen van mapping afgerond",
+  
+  // "item.edit.item-mapper.search-form.placeholder": "Search collections...",
+  // TODO New key - Add a translation
+  "item.edit.item-mapper.search-form.placeholder": "Search collections...",
   
   // "item.edit.item-mapper.tabs.browse": "Browse mapped collections",
   "item.edit.item-mapper.tabs.browse": "Blader door gemapte collecties",
@@ -2720,8 +2877,17 @@
   
   
   
-  // "item.edit.move.cancel": "Cancel",
+  // "item.edit.move.cancel": "Back",
+  // TODO Source message changed - Revise the translation
   "item.edit.move.cancel": "Annuleer",
+  
+  // "item.edit.move.save-button": "Save",
+  // TODO New key - Add a translation
+  "item.edit.move.save-button": "Save",
+  
+  // "item.edit.move.discard-button": "Discard",
+  // TODO New key - Add a translation
+  "item.edit.move.discard-button": "Discard",
   
   // "item.edit.move.description": "Select the collection you wish to move this item to. To narrow down the list of displayed collections, you can enter a search query in the box.",
   "item.edit.move.description": "Kies de collectie waar u dit item naartoe wilt verplaatsen. Om de lijst met collecties in te perken kunt een zoekterm invullen in het zoekveld.",
@@ -2865,6 +3031,10 @@
   "item.edit.relationships.no-entity-type": "Add 'dspace.entity.type' metadata to enable relationships for this item",
   
   
+  // "item.edit.return": "Back",
+  // TODO New key - Add a translation
+  "item.edit.return": "Back",
+  
   
   // "item.edit.tabs.bitstreams.head": "Bitstreams",
   // TODO Source message changed - Revise the translation
@@ -2934,6 +3104,10 @@
   
   // "item.edit.tabs.status.buttons.reinstate.label": "Reinstate item into the repository",
   "item.edit.tabs.status.buttons.reinstate.label": "Zet het item terug in het repository",
+  
+  // "item.edit.tabs.status.buttons.unauthorized": "You're not authorized to perform this action",
+  // TODO New key - Add a translation
+  "item.edit.tabs.status.buttons.unauthorized": "You're not authorized to perform this action",
   
   // "item.edit.tabs.status.buttons.withdraw.button": "Withdraw...",
   "item.edit.tabs.status.buttons.withdraw.button": "Trek terug ...",
@@ -3011,10 +3185,6 @@
   // TODO New key - Add a translation
   "item.page.description": "Description",
   
-  // "item.page.edit": "Edit this item",
-  // TODO New key - Add a translation
-  "item.page.edit": "Edit this item",
-  
   // "item.page.journal-issn": "Journal ISSN",
   // TODO New key - Add a translation
   "item.page.journal-issn": "Journal ISSN",
@@ -3039,9 +3209,9 @@
   // TODO New key - Add a translation
   "item.search.results.head": "Item Search Results",
   
-  // "item.search.title": "DSpace Angular :: Item Search",
+  // "item.search.title": "Item Search",
   // TODO New key - Add a translation
-  "item.search.title": "DSpace Angular :: Item Search",
+  "item.search.title": "Item Search",
   
   
   
@@ -3140,6 +3310,10 @@
   // TODO New key - Add a translation
   "item.page.filesection.license.bundle" : "License bundle",
   
+  // "item.page.return": "Back",
+  // TODO New key - Add a translation
+  "item.page.return": "Back",
+  
   // "item.preview.dc.identifier.uri": "Identifier:",
   // TODO New key - Add a translation
   "item.preview.dc.identifier.uri": "Identifier:",
@@ -3209,9 +3383,9 @@
   // TODO New key - Add a translation
   "item.version.history.head": "Version History",
   
-  // "item.version.history.return": "Return",
+  // "item.version.history.return": "Back",
   // TODO New key - Add a translation
-  "item.version.history.return": "Return",
+  "item.version.history.return": "Back",
   
   // "item.version.history.selected": "Selected version",
   // TODO New key - Add a translation
@@ -3270,7 +3444,8 @@
   // "journal.search.results.head": "Journal Search Results",
   "journal.search.results.head": "Tijdschrift zoekresultaten",
   
-  // "journal.search.title": "DSpace Angular :: Journal Search",
+  // "journal.search.title": "Journal Search",
+  // TODO Source message changed - Revise the translation
   "journal.search.title": "DSpace Angular :: Tijdschrift zoeken",
   
   
@@ -3431,11 +3606,16 @@
   
   
   
-  // "menu.header.admin": "Admin",
+  // "menu.header.admin": "Management",
+  // TODO Source message changed - Revise the translation
   "menu.header.admin": "Beheer",
   
   // "menu.header.image.logo": "Repository logo",
   "menu.header.image.logo": "Repository logo",
+  
+  // "menu.header.admin.description": "Management menu",
+  // TODO New key - Add a translation
+  "menu.header.admin.description": "Management menu",
   
   
   
@@ -3677,6 +3857,10 @@
   "menu.section.workflow": "Administer Workflow",
   
   
+  // "mydspace.breadcrumbs": "MyDSpace",
+  // TODO New key - Add a translation
+  "mydspace.breadcrumbs": "MyDSpace",
+  
   // "mydspace.description": "",
   "mydspace.description": "",
   
@@ -3761,6 +3945,10 @@
   // "mydspace.results.no-uri": "No Uri",
   "mydspace.results.no-uri": "Geen URI",
   
+  // "mydspace.search-form.placeholder": "Search in mydspace...",
+  // TODO New key - Add a translation
+  "mydspace.search-form.placeholder": "Search in mydspace...",
+  
   // "mydspace.show.workflow": "All tasks",
   "mydspace.show.workflow": "Alle taken",
   
@@ -3819,8 +4007,13 @@
   // "nav.login": "Log In",
   "nav.login": "Log In",
   
-  // "nav.logout": "Log Out",
+  // "nav.logout": "User profile menu and Log Out",
+  // TODO Source message changed - Revise the translation
   "nav.logout": "Log Uit",
+  
+  // "nav.main.description": "Main navigation bar",
+  // TODO New key - Add a translation
+  "nav.main.description": "Main navigation bar",
   
   // "nav.mydspace": "MyDSpace",
   "nav.mydspace": "MyDSpace",
@@ -3838,6 +4031,14 @@
   // "nav.stop-impersonating": "Stop impersonating EPerson",
   // TODO New key - Add a translation
   "nav.stop-impersonating": "Stop impersonating EPerson",
+  
+  // "nav.toggle" : "Toggle navigation",
+  // TODO New key - Add a translation
+  "nav.toggle" : "Toggle navigation",
+  
+  // "nav.user.description" : "User profile bar",
+  // TODO New key - Add a translation
+  "nav.user.description" : "User profile bar",
   
   
   
@@ -3867,6 +4068,10 @@
   "orgunit.page.titleprefix": "Organisatie-onderdeel: ",
   
   
+  
+  // "pagination.options.description": "Pagination options",
+  // TODO New key - Add a translation
+  "pagination.options.description": "Pagination options",
   
   // "pagination.results-per-page": "Results Per Page",
   "pagination.results-per-page": "Resultaten per pagina",
@@ -3923,7 +4128,8 @@
   // "person.search.results.head": "Person Search Results",
   "person.search.results.head": "Zoekresultaten Persoon",
   
-  // "person.search.title": "DSpace Angular :: Person Search",
+  // "person.search.title": "Person Search",
+  // TODO Source message changed - Revise the translation
   "person.search.title": "DSpace Angular :: Persoon zoeken",
   
   
@@ -3936,9 +4142,9 @@
   // TODO New key - Add a translation
   "process.new.cancel": "Cancel",
   
-  // "process.new.submit": "Submit",
+  // "process.new.submit": "Save",
   // TODO New key - Add a translation
-  "process.new.submit": "Submit",
+  "process.new.submit": "Save",
   
   // "process.new.select-script": "Script",
   // TODO New key - Add a translation
@@ -4117,9 +4323,9 @@
   // TODO New key - Add a translation
   "profile.card.security": "Security",
   
-  // "profile.form.submit": "Update Profile",
+  // "profile.form.submit": "Save",
   // TODO New key - Add a translation
-  "profile.form.submit": "Update Profile",
+  "profile.form.submit": "Save",
   
   // "profile.groups.head": "Authorization groups you belong to",
   // TODO New key - Add a translation
@@ -4284,8 +4490,22 @@
   // "publication.search.results.head": "Publication Search Results",
   "publication.search.results.head": "Publicatie zoekresultaten",
   
-  // "publication.search.title": "DSpace Angular :: Publication Search",
+  // "publication.search.title": "Publication Search",
+  // TODO Source message changed - Revise the translation
   "publication.search.title": "DSpace Angular :: Publicatie zoeken",
+  
+  
+  // "media-viewer.next": "Next",
+  // TODO New key - Add a translation
+  "media-viewer.next": "Next",
+  
+  // "media-viewer.previous": "Previous",
+  // TODO New key - Add a translation
+  "media-viewer.previous": "Previous",
+  
+  // "media-viewer.playlist": "Playlist",
+  // TODO New key - Add a translation
+  "media-viewer.playlist": "Playlist",
   
   
   // "register-email.title": "New user registration",
@@ -4484,6 +4704,17 @@
   "relationships.isContributorOf": "Contributors",
   
   
+  // "repository.image.logo": "Repository logo",
+  // TODO New key - Add a translation
+  "repository.image.logo": "Repository logo",
+  
+  // "repository.title.prefix": "DSpace IIAP :: ",
+  // TODO New key - Add a translation
+  "repository.title.prefix": "DSpace IIAP :: ",
+  
+  // "repository.title.prefixDSpace": "DSpace IIAP :: ",
+  // TODO New key - Add a translation
+  "repository.title.prefixDSpace": "DSpace IIAP :: ",
   
   // "resource-policies.add.button": "Add",
   // TODO New key - Add a translation
@@ -4693,12 +4924,17 @@
   // "search.switch-configuration.title": "Show",
   "search.switch-configuration.title": "Toon",
   
-  // "search.title": "DSpace Angular :: Search",
+  // "search.title": "Search",
+  // TODO Source message changed - Revise the translation
   "search.title": "DSpace Angular :: Zoek",
   
   // "search.breadcrumbs": "Search",
   // TODO New key - Add a translation
   "search.breadcrumbs": "Search",
+  
+  // "search.search-form.placeholder": "Search the repository ...",
+  // TODO New key - Add a translation
+  "search.search-form.placeholder": "Search the repository ...",
   
   
   // "search.filters.applied.f.author": "Author",
@@ -4759,11 +4995,23 @@
   // "search.filters.filter.author.placeholder": "Author name",
   "search.filters.filter.author.placeholder": "Auteursnaam",
   
+  // "search.filters.filter.author.label": "Search author name",
+  // TODO New key - Add a translation
+  "search.filters.filter.author.label": "Search author name",
+  
   // "search.filters.filter.birthDate.head": "Birth Date",
   "search.filters.filter.birthDate.head": "Geboortedatum",
   
   // "search.filters.filter.birthDate.placeholder": "Birth Date",
   "search.filters.filter.birthDate.placeholder": "Geboortedatum",
+  
+  // "search.filters.filter.birthDate.label": "Search birth date",
+  // TODO New key - Add a translation
+  "search.filters.filter.birthDate.label": "Search birth date",
+  
+  // "search.filters.filter.collapse": "Collapse filter",
+  // TODO New key - Add a translation
+  "search.filters.filter.collapse": "Collapse filter",
   
   // "search.filters.filter.creativeDatePublished.head": "Date Published",
   "search.filters.filter.creativeDatePublished.head": "Datum van uitgave",
@@ -4771,11 +5019,19 @@
   // "search.filters.filter.creativeDatePublished.placeholder": "Date Published",
   "search.filters.filter.creativeDatePublished.placeholder": "Datum van uitgave",
   
+  // "search.filters.filter.creativeDatePublished.label": "Search date published",
+  // TODO New key - Add a translation
+  "search.filters.filter.creativeDatePublished.label": "Search date published",
+  
   // "search.filters.filter.creativeWorkEditor.head": "Editor",
   "search.filters.filter.creativeWorkEditor.head": "Redacteur",
   
   // "search.filters.filter.creativeWorkEditor.placeholder": "Editor",
   "search.filters.filter.creativeWorkEditor.placeholder": "Redacteur",
+  
+  // "search.filters.filter.creativeWorkEditor.label": "Search editor",
+  // TODO New key - Add a translation
+  "search.filters.filter.creativeWorkEditor.label": "Search editor",
   
   // "search.filters.filter.creativeWorkKeywords.head": "Subject",
   "search.filters.filter.creativeWorkKeywords.head": "Onderwerp",
@@ -4783,26 +5039,48 @@
   // "search.filters.filter.creativeWorkKeywords.placeholder": "Subject",
   "search.filters.filter.creativeWorkKeywords.placeholder": "Onderwerp",
   
+  // "search.filters.filter.creativeWorkKeywords.label": "Search subject",
+  // TODO New key - Add a translation
+  "search.filters.filter.creativeWorkKeywords.label": "Search subject",
+  
   // "search.filters.filter.creativeWorkPublisher.head": "Publisher",
   "search.filters.filter.creativeWorkPublisher.head": "Uitgever",
   
   // "search.filters.filter.creativeWorkPublisher.placeholder": "Publisher",
   "search.filters.filter.creativeWorkPublisher.placeholder": "Uitgever",
   
+  // "search.filters.filter.creativeWorkPublisher.label": "Search publisher",
+  // TODO New key - Add a translation
+  "search.filters.filter.creativeWorkPublisher.label": "Search publisher",
+  
   // "search.filters.filter.dateIssued.head": "Date",
   "search.filters.filter.dateIssued.head": "Datum",
   
-  // "search.filters.filter.dateIssued.max.placeholder": "Minimum Date",
+  // "search.filters.filter.dateIssued.max.placeholder": "Maximum Date",
+  // TODO Source message changed - Revise the translation
   "search.filters.filter.dateIssued.max.placeholder": "Vroegste Datum",
   
-  // "search.filters.filter.dateIssued.min.placeholder": "Maximum Date",
+  // "search.filters.filter.dateIssued.max.label": "End",
+  // TODO New key - Add a translation
+  "search.filters.filter.dateIssued.max.label": "End",
+  
+  // "search.filters.filter.dateIssued.min.placeholder": "Minimum Date",
+  // TODO Source message changed - Revise the translation
   "search.filters.filter.dateIssued.min.placeholder": "Laatste Datum",
+  
+  // "search.filters.filter.dateIssued.min.label": "Start",
+  // TODO New key - Add a translation
+  "search.filters.filter.dateIssued.min.label": "Start",
   
   // "search.filters.filter.dateSubmitted.head": "Date submitted",
   "search.filters.filter.dateSubmitted.head": "Indiendatum",
   
   // "search.filters.filter.dateSubmitted.placeholder": "Date submitted",
   "search.filters.filter.dateSubmitted.placeholder": "Indiendatum",
+  
+  // "search.filters.filter.dateSubmitted.label": "Search date submitted",
+  // TODO New key - Add a translation
+  "search.filters.filter.dateSubmitted.label": "Search date submitted",
   
   // "search.filters.filter.discoverable.head": "Private",
   // TODO New key - Add a translation
@@ -4818,6 +5096,14 @@
   // "search.filters.filter.entityType.placeholder": "Item Type",
   "search.filters.filter.entityType.placeholder": "Soort item",
   
+  // "search.filters.filter.entityType.label": "Search item type",
+  // TODO New key - Add a translation
+  "search.filters.filter.entityType.label": "Search item type",
+  
+  // "search.filters.filter.expand": "Expand filter",
+  // TODO New key - Add a translation
+  "search.filters.filter.expand": "Expand filter",
+  
   // "search.filters.filter.has_content_in_original_bundle.head": "Has files",
   "search.filters.filter.has_content_in_original_bundle.head": "Heeft bestanden",
   
@@ -4827,11 +5113,19 @@
   // "search.filters.filter.itemtype.placeholder": "Type",
   "search.filters.filter.itemtype.placeholder": "Type",
   
+  // "search.filters.filter.itemtype.label": "Search type",
+  // TODO New key - Add a translation
+  "search.filters.filter.itemtype.label": "Search type",
+  
   // "search.filters.filter.jobTitle.head": "Job Title",
   "search.filters.filter.jobTitle.head": "Functienaam",
   
   // "search.filters.filter.jobTitle.placeholder": "Job Title",
   "search.filters.filter.jobTitle.placeholder": "Functienaam",
+  
+  // "search.filters.filter.jobTitle.label": "Search job title",
+  // TODO New key - Add a translation
+  "search.filters.filter.jobTitle.label": "Search job title",
   
   // "search.filters.filter.knowsLanguage.head": "Known language",
   "search.filters.filter.knowsLanguage.head": "Kent taal",
@@ -4839,11 +5133,19 @@
   // "search.filters.filter.knowsLanguage.placeholder": "Known language",
   "search.filters.filter.knowsLanguage.placeholder": "Kent taal",
   
+  // "search.filters.filter.knowsLanguage.label": "Search known language",
+  // TODO New key - Add a translation
+  "search.filters.filter.knowsLanguage.label": "Search known language",
+  
   // "search.filters.filter.namedresourcetype.head": "Status",
   "search.filters.filter.namedresourcetype.head": "Status",
   
   // "search.filters.filter.namedresourcetype.placeholder": "Status",
   "search.filters.filter.namedresourcetype.placeholder": "Status",
+  
+  // "search.filters.filter.namedresourcetype.label": "Search status",
+  // TODO New key - Add a translation
+  "search.filters.filter.namedresourcetype.label": "Search status",
   
   // "search.filters.filter.objectpeople.head": "People",
   "search.filters.filter.objectpeople.head": "Personen",
@@ -4851,11 +5153,19 @@
   // "search.filters.filter.objectpeople.placeholder": "People",
   "search.filters.filter.objectpeople.placeholder": "Personen",
   
+  // "search.filters.filter.objectpeople.label": "Search people",
+  // TODO New key - Add a translation
+  "search.filters.filter.objectpeople.label": "Search people",
+  
   // "search.filters.filter.organizationAddressCountry.head": "Country",
   "search.filters.filter.organizationAddressCountry.head": "Land",
   
   // "search.filters.filter.organizationAddressCountry.placeholder": "Country",
   "search.filters.filter.organizationAddressCountry.placeholder": "Land",
+  
+  // "search.filters.filter.organizationAddressCountry.label": "Search country",
+  // TODO New key - Add a translation
+  "search.filters.filter.organizationAddressCountry.label": "Search country",
   
   // "search.filters.filter.organizationAddressLocality.head": "City",
   "search.filters.filter.organizationAddressLocality.head": "Plaats",
@@ -4863,17 +5173,29 @@
   // "search.filters.filter.organizationAddressLocality.placeholder": "City",
   "search.filters.filter.organizationAddressLocality.placeholder": "Plaats",
   
+  // "search.filters.filter.organizationAddressLocality.label": "Search city",
+  // TODO New key - Add a translation
+  "search.filters.filter.organizationAddressLocality.label": "Search city",
+  
   // "search.filters.filter.organizationFoundingDate.head": "Date Founded",
   "search.filters.filter.organizationFoundingDate.head": "Oprichtingsdatum",
   
   // "search.filters.filter.organizationFoundingDate.placeholder": "Date Founded",
   "search.filters.filter.organizationFoundingDate.placeholder": "Oprichtingsdatum",
   
+  // "search.filters.filter.organizationFoundingDate.label": "Search date founded",
+  // TODO New key - Add a translation
+  "search.filters.filter.organizationFoundingDate.label": "Search date founded",
+  
   // "search.filters.filter.scope.head": "Scope",
   "search.filters.filter.scope.head": "Bereik",
   
   // "search.filters.filter.scope.placeholder": "Scope filter",
   "search.filters.filter.scope.placeholder": "Bereikfilter",
+  
+  // "search.filters.filter.scope.label": "Search scope filter",
+  // TODO New key - Add a translation
+  "search.filters.filter.scope.label": "Search scope filter",
   
   // "search.filters.filter.show-less": "Collapse",
   "search.filters.filter.show-less": "Inklappen",
@@ -4887,11 +5209,19 @@
   // "search.filters.filter.subject.placeholder": "Subject",
   "search.filters.filter.subject.placeholder": "Onderwerp",
   
+  // "search.filters.filter.subject.label": "Search subject",
+  // TODO New key - Add a translation
+  "search.filters.filter.subject.label": "Search subject",
+  
   // "search.filters.filter.submitter.head": "Submitter",
   "search.filters.filter.submitter.head": "Indiener",
   
   // "search.filters.filter.submitter.placeholder": "Submitter",
   "search.filters.filter.submitter.placeholder": "Indiener",
+  
+  // "search.filters.filter.submitter.label": "Search submitter",
+  // TODO New key - Add a translation
+  "search.filters.filter.submitter.label": "Search submitter",
   
   
   
@@ -4938,16 +5268,18 @@
   // "search.filters.reset": "Reset filters",
   "search.filters.reset": "Filters verwijderen",
   
+  // "search.filters.search.submit": "Submit",
+  // TODO New key - Add a translation
+  "search.filters.search.submit": "Submit",
+  
   
   
   // "search.form.search": "Search",
   "search.form.search": "Zoek",
   
-  // "search.form.search_dspace": "Search DSpace",
+  // "search.form.search_dspace": "All repository",
+  // TODO Source message changed - Revise the translation
   "search.form.search_dspace": "Zoek in DSpace",
-  
-  // "search.form.search_mydspace": "Search MyDSpace",
-  "search.form.search_mydspace": "Zoek in MyDSpace",
   
   
   
@@ -4964,6 +5296,10 @@
   // TODO New key - Add a translation
   "search.results.empty": "Your search returned no results.",
   
+  
+  // "default.search.results.head": "Search Results",
+  // TODO New key - Add a translation
+  "default.search.results.head": "Search Results",
   
   
   // "search.sidebar.close": "Back to results",
@@ -5014,9 +5350,37 @@
   // "sorting.dc.title.DESC": "Title Descending",
   "sorting.dc.title.DESC": "Aflopend op titel",
   
-  // "sorting.score.DESC": "Relevance",
+  // "sorting.score.ASC": "Least Relevant",
+  // TODO New key - Add a translation
+  "sorting.score.ASC": "Least Relevant",
+  
+  // "sorting.score.DESC": "Most Relevant",
+  // TODO Source message changed - Revise the translation
   "sorting.score.DESC": "Relevantie",
   
+  // "sorting.dc.date.issued.ASC": "Date Issued Ascending",
+  // TODO New key - Add a translation
+  "sorting.dc.date.issued.ASC": "Date Issued Ascending",
+  
+  // "sorting.dc.date.issued.DESC": "Date Issued Descending",
+  // TODO New key - Add a translation
+  "sorting.dc.date.issued.DESC": "Date Issued Descending",
+  
+  // "sorting.dc.date.accessioned.ASC": "Accessioned Date Ascending",
+  // TODO New key - Add a translation
+  "sorting.dc.date.accessioned.ASC": "Accessioned Date Ascending",
+  
+  // "sorting.dc.date.accessioned.DESC": "Accessioned Date Descending",
+  // TODO New key - Add a translation
+  "sorting.dc.date.accessioned.DESC": "Accessioned Date Descending",
+  
+  // "sorting.lastModified.ASC": "Last modified Ascending",
+  // TODO New key - Add a translation
+  "sorting.lastModified.ASC": "Last modified Ascending",
+  
+  // "sorting.lastModified.DESC": "Last modified Descending",
+  // TODO New key - Add a translation
+  "sorting.lastModified.DESC": "Last modified Descending",
   
   
   // "statistics.title": "Statistics",
@@ -5065,8 +5429,16 @@
   
   
   
+  // "submission.edit.breadcrumbs": "Edit Submission",
+  // TODO New key - Add a translation
+  "submission.edit.breadcrumbs": "Edit Submission",
+  
   // "submission.edit.title": "Edit Submission",
   "submission.edit.title": "Bewerk submission",
+  
+  // "submission.general.cancel": "Cancel",
+  // TODO New key - Add a translation
+  "submission.general.cancel": "Cancel",
   
   // "submission.general.cannot_submit": "You have not the privilege to make a new submission.",
   "submission.general.cannot_submit": "U heeft niet voldoende rechten om een nieuwe submission in te dienen.",
@@ -5088,6 +5460,14 @@
   
   // "submission.general.discard.submit": "Discard",
   "submission.general.discard.submit": "Annuleer",
+  
+  // "submission.general.info.saved": "Saved",
+  // TODO New key - Add a translation
+  "submission.general.info.saved": "Saved",
+  
+  // "submission.general.info.pending-changes": "Unsaved changes",
+  // TODO New key - Add a translation
+  "submission.general.info.pending-changes": "Unsaved changes",
   
   // "submission.general.save": "Save",
   "submission.general.save": "Opslaan",
@@ -5139,6 +5519,10 @@
   // "submission.import-external.source.sherpaJournal": "SHERPA Journals",
   // TODO New key - Add a translation
   "submission.import-external.source.sherpaJournal": "SHERPA Journals",
+  
+  // "submission.import-external.source.sherpaJournalIssn": "SHERPA Journals by ISSN",
+  // TODO New key - Add a translation
+  "submission.import-external.source.sherpaJournalIssn": "SHERPA Journals by ISSN",
   
   // "submission.import-external.source.sherpaPublisher": "SHERPA Publishers",
   // TODO New key - Add a translation
@@ -5324,6 +5708,10 @@
   // TODO New key - Add a translation
   "submission.sections.describe.relationship-lookup.search-tab.search": "Go",
   
+  // "submission.sections.describe.relationship-lookup.search-tab.search-form.placeholder": "Search...",
+  // TODO New key - Add a translation
+  "submission.sections.describe.relationship-lookup.search-tab.search-form.placeholder": "Search...",
+  
   // "submission.sections.describe.relationship-lookup.search-tab.select-all": "Select all",
   // TODO New key - Add a translation
   "submission.sections.describe.relationship-lookup.search-tab.select-all": "Select all",
@@ -5420,6 +5808,10 @@
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.isChildOrgUnitOf": "Search for Organizational Units",
   // TODO New key - Add a translation
   "submission.sections.describe.relationship-lookup.search-tab.tab-title.isChildOrgUnitOf": "Search for Organizational Units",
+  
+  // "submission.sections.describe.relationship-lookup.selection-tab.search-form.placeholder": "Search...",
+  // TODO New key - Add a translation
+  "submission.sections.describe.relationship-lookup.selection-tab.search-form.placeholder": "Search...",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.tab-title": "Current Selection ({{ count }})",
   // TODO New key - Add a translation
@@ -5698,6 +6090,26 @@
   
   
   
+  // "submission.sections.status.errors.title": "Errors",
+  // TODO New key - Add a translation
+  "submission.sections.status.errors.title": "Errors",
+  
+  // "submission.sections.status.valid.title": "Valid",
+  // TODO New key - Add a translation
+  "submission.sections.status.valid.title": "Valid",
+  
+  // "submission.sections.status.warnings.title": "Warnings",
+  // TODO New key - Add a translation
+  "submission.sections.status.warnings.title": "Warnings",
+  
+  // "submission.sections.toggle.open": "Open section",
+  // TODO New key - Add a translation
+  "submission.sections.toggle.open": "Open section",
+  
+  // "submission.sections.toggle.close": "Close section",
+  // TODO New key - Add a translation
+  "submission.sections.toggle.close": "Close section",
+  
   // "submission.sections.upload.delete.confirm.cancel": "Cancel",
   "submission.sections.upload.delete.confirm.cancel": "Annuleer",
   
@@ -5713,8 +6125,16 @@
   // "submission.sections.upload.delete.submit": "Delete",
   "submission.sections.upload.delete.submit": "Verwijder",
   
+  // "submission.sections.upload.download.title": "Download bitstream",
+  // TODO New key - Add a translation
+  "submission.sections.upload.download.title": "Download bitstream",
+  
   // "submission.sections.upload.drop-message": "Drop files to attach them to the item",
   "submission.sections.upload.drop-message": "Sleep bestanden om ze toe te voegen aan het item",
+  
+  // "submission.sections.upload.edit.title": "Edit bitstream",
+  // TODO New key - Add a translation
+  "submission.sections.upload.edit.title": "Edit bitstream",
   
   // "submission.sections.upload.form.access-condition-label": "Access condition type",
   "submission.sections.upload.form.access-condition-label": "Soort toegangsrecht",
@@ -5771,7 +6191,12 @@
   
   
   
-  // "submission.submit.title": "Submission",
+  // "submission.submit.breadcrumbs": "New submission",
+  // TODO New key - Add a translation
+  "submission.submit.breadcrumbs": "New submission",
+  
+  // "submission.submit.title": "New submission",
+  // TODO Source message changed - Revise the translation
   "submission.submit.title": "Submission",
   
   
@@ -5862,6 +6287,40 @@
   
   
   
+  // "thumbnail.default.alt": "Thumbnail Image",
+  // TODO New key - Add a translation
+  "thumbnail.default.alt": "Thumbnail Image",
+  
+  // "thumbnail.default.placeholder": "No Thumbnail Available",
+  // TODO New key - Add a translation
+  "thumbnail.default.placeholder": "No Thumbnail Available",
+  
+  // "thumbnail.project.alt": "Project Logo",
+  // TODO New key - Add a translation
+  "thumbnail.project.alt": "Project Logo",
+  
+  // "thumbnail.project.placeholder": "Project Placeholder Image",
+  // TODO New key - Add a translation
+  "thumbnail.project.placeholder": "Project Placeholder Image",
+  
+  // "thumbnail.orgunit.alt": "OrgUnit Logo",
+  // TODO New key - Add a translation
+  "thumbnail.orgunit.alt": "OrgUnit Logo",
+  
+  // "thumbnail.orgunit.placeholder": "OrgUnit Placeholder Image",
+  // TODO New key - Add a translation
+  "thumbnail.orgunit.placeholder": "OrgUnit Placeholder Image",
+  
+  // "thumbnail.person.alt": "Profile Picture",
+  // TODO New key - Add a translation
+  "thumbnail.person.alt": "Profile Picture",
+  
+  // "thumbnail.person.placeholder": "No Profile Picture Available",
+  // TODO New key - Add a translation
+  "thumbnail.person.placeholder": "No Profile Picture Available",
+  
+  
+  
   // "title": "DSpace",
   "title": "DSpace",
   
@@ -5903,6 +6362,10 @@
   // "uploader.drag-message": "Drag & Drop your files here",
   "uploader.drag-message": "Sleep uw bestanden hierheen",
   
+  // "uploader.delete.btn-title": "Delete",
+  // TODO New key - Add a translation
+  "uploader.delete.btn-title": "Delete",
+  
   // "uploader.or": ", or ",
   // TODO Source message changed - Revise the translation
   "uploader.or": ", of",
@@ -5932,6 +6395,18 @@
   "workflowAdmin.search.results.head": "Administer Workflow",
   
   
+  
+  // "workflow-item.edit.breadcrumbs": "Edit workflowitem",
+  // TODO New key - Add a translation
+  "workflow-item.edit.breadcrumbs": "Edit workflowitem",
+  
+  // "workflow-item.edit.title": "Edit workflowitem",
+  // TODO New key - Add a translation
+  "workflow-item.edit.title": "Edit workflowitem",
+  
+  // "workflow-item.edit.title": "View workflowitem",
+  // TODO New key - Add a translation
+  "workflow-item.edit.title": "View workflowitem",
   
   // "workflow-item.delete.notification.success.title": "Deleted",
   // TODO New key - Add a translation
@@ -5994,9 +6469,30 @@
   // TODO New key - Add a translation
   "workflow-item.send-back.button.cancel": "Cancel",
   
-  // "workflow-item.send-back.button.confirm": "Send back"
+  // "workflow-item.send-back.button.confirm": "Send back",
   // TODO New key - Add a translation
-  "workflow-item.send-back.button.confirm": "Send back"
+  "workflow-item.send-back.button.confirm": "Send back",
+  
+  // "workflow-item.view.breadcrumbs": "Workflow View",
+  // TODO New key - Add a translation
+  "workflow-item.view.breadcrumbs": "Workflow View",
+  
+  
+  // "idle-modal.header": "Session will expire soon",
+  // TODO New key - Add a translation
+  "idle-modal.header": "Session will expire soon",
+  
+  // "idle-modal.info": "For security reasons, user sessions expire after {{ timeToExpire }} minutes of inactivity. Your session will expire soon. Would you like to extend it or log out?",
+  // TODO New key - Add a translation
+  "idle-modal.info": "For security reasons, user sessions expire after {{ timeToExpire }} minutes of inactivity. Your session will expire soon. Would you like to extend it or log out?",
+  
+  // "idle-modal.log-out": "Log out",
+  // TODO New key - Add a translation
+  "idle-modal.log-out": "Log out",
+  
+  // "idle-modal.extend-session": "Extend session"
+  // TODO New key - Add a translation
+  "idle-modal.extend-session": "Extend session"
   
 
 }
